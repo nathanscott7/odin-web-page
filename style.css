@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    column-gap: 100px;
+}
+
+.logo {
+    flex: 1 1 auto;
+    margin-right: auto;
+
+}
